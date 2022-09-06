@@ -1,6 +1,8 @@
 /* TemperatureConverter.cpp
  * Carter McCall
  * 6 September 2022
+ * Purpose:
+ *      Convert fahrenheit temperatures to celsius temperatures and vice versa
  */
 #include <iostream>
 using namespace std;
